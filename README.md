@@ -1,6 +1,6 @@
 # Olá, eu sou o Jeferson
 
-- 🔭 Atualmente trabalho como Suporte/Engenheiro Trainee
+- 🔭 Atualmente trabalho como Engenheiro de Software
 - 📖 Estudando .NET C#, javascript, Nodejs
 
 <a href="https://github.com/jefersonquaiato"></a>
