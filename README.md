@@ -1,7 +1,7 @@
 # Olá, eu sou o Jeferson
 
 - 🔭 Atualmente trabalho como Engenheiro de Software
-- 📖 Estudando .NET C#, javascript, Nodejs
+- 📖 Estudando .NET C#, javascript
 
 <a href="https://github.com/jefersonquaiato"></a>
 
